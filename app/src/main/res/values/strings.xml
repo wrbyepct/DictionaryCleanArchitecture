@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DictionaryApp</string>
+    <string name="http_error">Oops, something went wrong!</string>
+    <string name="io_error">No network now</string>
+</resources>
